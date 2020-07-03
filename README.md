@@ -16,6 +16,10 @@ Genetic algorithms are *randomized search algorithms* that have been developed i
 5. Offsprings are added to the population and Fitness score is calculated.
 6. Process is stopped if max-fitness score is found, else repeated from Step 3 to 5
 
+## Contents:
+* [Eight queens puzzle - Code](https://nbviewer.jupyter.org/github/karthikeyan-ramachandran-git/eight-queens-puzzle/blob/master/Eight_queens_puzzle.ipynb)
+* [Eight queens puzzle - Explanation](https://nbviewer.jupyter.org/github/karthikeyan-ramachandran-git/eight-queens-puzzle/blob/master/Eight_queens_puzzle_explaination.ipynb)
+
 **References:**
 * [The 8 Queen Problem - Numberphile](https://youtu.be/jPcBU0Z2Hj8)
 * [Genetic Algorithms - The Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV)
